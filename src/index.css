@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+body {
+  font-family: "Lato", sans-serif;
+  padding: 22px 28px;
+}
+.user-info {
+  display: flex;
+  width: 100%;
+}
+.left-panel {
+  min-width: 140px;
+}
+
+.value {
+  display: flex;
+  padding: 6px 0px;
+}
+.header {
+  margin-bottom: 4px;
+}
+
+.action-btn {
+  margin-top: 10px;
+}
+
+.user-value {
+  min-width: 220px;
+}
+
+.input-key {
+  margin-top: 7px;
+  margin-right: 7px;
+}
